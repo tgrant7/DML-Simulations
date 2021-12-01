@@ -7,3 +7,5 @@ Working Notes - Des Moines Lobe Milkweed Augmentation Simulations.docx:  my pers
 
 DML Model Runs and Parameters for GitHub.xlsx:  list of model runs, parameters, etc. 
 
+Workflow for Running Monarch Model using Slurm on ISU HPC machines.docx:  my workflow for running the model on Iowa State University High Performance Computing services
+
