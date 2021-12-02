@@ -19,3 +19,7 @@ Shapefiles for Scenarios 1, 2, and 3:
 
 The shapefiles for are ~400 GB each. Contact me if you need copies. 
 
+Simulation output files (e.g., **CumEggsPerZone.2021.Mar.20.10_57_04.txt**) are ~5.6 TB. Contact me if you need copies. 
+
+
+
