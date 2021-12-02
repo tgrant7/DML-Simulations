@@ -3,19 +3,19 @@ Files to reproduce analyses running the agent-based model in the Des Moines Lobe
 
 Files:
 
-**_Working Notes - Des Moines Lobe Milkweed Augmentation Simulations.docx_**:  my personal working notes on developing and running these simulations
+**Working Notes - Des Moines Lobe Milkweed Augmentation Simulations.docx**:  my personal working notes on developing and running these simulations
 
-**_DML Model Runs and Parameters for GitHub.xlsx_**:  list of model runs, parameters, etc. 
+**DML Model Runs and Parameters for GitHub.xlsx**:  list of model runs, parameters, etc. 
 
-**_Workflow for Running Monarch Model using Slurm on ISU HPC machines.docx_**:  my workflow for running the model on Iowa State University High Performance Computing services
+**Workflow for Running Monarch Model using Slurm on ISU HPC machines.docx**:  my workflow for running the model on Iowa State University High Performance Computing services
 
 Shapefiles for Scenarios 1, 2, and 3:
 
-**_Spatial_Join_DML4_Counties5_UTMLL.shp_**
+**Spatial_Join_DML4_Counties5_UTMLL.shp**
 
-**_Spatial_Join_DML4_Counties5_UTMS2LL.shp_**
+**Spatial_Join_DML4_Counties5_UTMS2LL.shp**
 
-**_Spatial_Join_DML4_Counties5_UTMS3LL.shp_**
+**Spatial_Join_DML4_Counties5_UTMS3LL.shp**
 
 The shapefiles for are ~400 GB each. Contact me if you need copies. 
 
