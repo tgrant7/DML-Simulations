@@ -12,7 +12,9 @@ Workflow for Running Monarch Model using Slurm on ISU HPC machines.docx:  my wor
 Shapefiles for Scenarios 1, 2, and 3:
 
 Spatial_Join_DML4_Counties5_UTMLL.shp
+
 Spatial_Join_DML4_Counties5_UTMS2LL.shp
+
 Spatial_Join_DML4_Counties5_UTMS3LL.shp
 
 The shapefiles for are ~400 GB each. Contact me if you need copies. 
