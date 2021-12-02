@@ -27,5 +27,5 @@ Simulation output files (e.g., **CumEggsPerZone.2021.Mar.20.10_57_04.txt**) are 
 
 **HabArea and EggsLaid1-3.xlsx**:  summary of the model output - area of each landcover type in the DML and each county, eggs laid per each landcover type per county, and summary figures
 
-
+**Grass-P.Scen1.txt**:  This file is the grass/pasture polygon area and perimeter exported from the shapefile. This file is used in the analysis relating egg density to polygon characteristics. The code is in DMLSims.R described above. 
 
