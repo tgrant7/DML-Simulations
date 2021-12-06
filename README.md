@@ -17,7 +17,7 @@ Shapefiles for Scenarios 1, 2, and 3:
 
 **Spatial_Join_DML4_Counties5_UTMS3LL.shp**
 
-The shapefiles for are ~400 GB each. Contact me if you need copies. 
+The shapefiles for are ~400 GB each. Contact me at tgrant at iastate dot edu if you need copies. 
 
 Simulation output files (e.g., **CumEggsPerZone.2021.Mar.20.10_57_04.txt**) are ~5.6 TB. Contact me if you need copies. 
 
